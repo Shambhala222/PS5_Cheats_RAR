@@ -14,6 +14,7 @@ Raw `.mc4` files (CheatRunner / official etaHEN style): [Shambhala222/PS5_Cheats
 
 | Game | Title ID | Version | File |
 |---|---|---|---|
+| Call of Duty Modern Warfare II | PPSA23012 | 01.001.000 | [mc4/PPSA23012_01.001.000.rar](mc4/PPSA23012_01.001.000.rar) |
 | Dead Island 2 | PPSA03098 | 01.000.011 | [mc4/PPSA03098_01.000.011.rar](mc4/PPSA03098_01.000.011.rar) |
 | GTA San Andreas – The Definitive Edition | PPSA03524 | 01.007.000 | [mc4/PPSA03524_01.007.000.rar](mc4/PPSA03524_01.007.000.rar) |
 | GTA III – The Definitive Edition | PPSA03527 | 01.007.000 | [mc4/PPSA03527_01.007.000.rar](mc4/PPSA03527_01.007.000.rar) |
