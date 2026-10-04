@@ -22,3 +22,4 @@ Raw `.mc4` files (CheatRunner / official etaHEN style): [Shambhala222/PS5_Cheats
 | Hogwarts Legacy (FIXED) | PPSA01593 | 01.000.010 | [mc4/PPSA01593_01.000.010.rar](mc4/PPSA01593_01.000.010.rar) |
 | Hogwarts Legacy | PPSA01593 | 01.000.013 | [mc4/PPSA01593_01.000.013.rar](mc4/PPSA01593_01.000.013.rar) |
 | Lords of the Fallen (EU) | PPSA03641 | 01.086.000 | [mc4/PPSA03641_01.086.000.rar](mc4/PPSA03641_01.086.000.rar) |
+| Marvel's Wolverine | PPSA03671 | 01.001.005 | [mc4/PPSA03671_01.001.005.rar](mc4/PPSA03671_01.001.005.rar) |
